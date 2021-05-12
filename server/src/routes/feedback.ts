@@ -65,6 +65,7 @@ const postGratitudeFeedback = (logger: ILogger) => {
     'Helping_hand',
     'Hero',
     'Thank_you',
+    'Outstanding_work',
   ];
   const discordService = new DiscordService(logger);
 
